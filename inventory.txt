@@ -1,0 +1,41 @@
+Hammer,300,20
+Screwdriver,160,30
+Wrench,250,25
+Pliers,200,15
+Drill Machine,3500,10
+Hand Saw,800,18
+Tape Measure,150,40
+Nails,5,500
+Screws,7,800
+Paint Brush,100,25
+Paint Roller,180,20
+Safety Goggles,75,50
+Work Gloves,60,100
+Toolbox,500,10
+Cordless Drill,4000,8
+Ladder,3000,5
+Extension Cord,550,30
+Spirit Level,250,40
+Carpenter's Square,300,25
+Plumbing Wrench,400,15
+Pipe Cutter,800,8
+Wire Stripper,350,20
+Caulking Gun,300,30
+Hacksaw,450,15
+Chisel Set,550,12
+Rubber Mallet,150,25
+Angle Grinder,6000,6
+Sanding Blocks,100,40
+Paint Scraper,85,30
+Electrical Tape,20,100
+Soldering Iron,500,10
+Multimeter,750,8
+LED Flashlight,200,40
+Batteries,10,500
+Adhesive,100,20
+C-Clamps,180,25
+Measuring Wheel,1200,10
+Plunger,100,20
+Cable Ties,50,50
+Duct Tape,60,40
+
